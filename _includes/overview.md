@@ -1,1 +1,1 @@
-Select an audio guide stop to begin.
+Welcome to the Tower Museum 'Shirt Factories of Derry' Exhibition. Select a number below to hear the amazing stories from the factory workers themselves.
