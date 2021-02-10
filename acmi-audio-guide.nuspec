@@ -4,7 +4,7 @@
     <id>StaticMuseumAudioGuide</id>
     <title>Static Museum Audio Guide</title>
     <version>1.0.0</version>
-    <authors>ACMI</authors>
+    <authors>Tower Museum</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A Jekyll theme for building lightweight static audio guides.</description>
   </metadata>
