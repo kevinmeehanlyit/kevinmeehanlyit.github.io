@@ -144,11 +144,11 @@
     display: block;
     border-top: 1px solid $background-hr;
     padding-top: 1em;
-    text-align: right;
+    text-align: center;
     img {
         display: inline-block;
         margin-bottom: 1em;
-        opacity: 0.2;
+        opacity: 0.6;
         transition: 0.3s;
     }
     img:hover {
@@ -156,9 +156,9 @@
     }
     .logo {
         width: auto;
-        max-height: 50px;
+        max-height: 150px;
         margin-left: 2em;
-        float: right;
+        float: center;
     }
 }
 
