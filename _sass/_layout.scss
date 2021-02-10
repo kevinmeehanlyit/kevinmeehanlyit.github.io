@@ -157,7 +157,7 @@
     .logo {
         width: auto;
         max-height: 150px;
-        margin-left: 2em;
+        margin-left: 0;
         float: center;
     }
 }
@@ -427,7 +427,7 @@
         text-align: center;
         padding-top: 0.5em;
         border-top: 1px solid $background-hr;
-        text-align: left;
+        text-align: center;
     }
     padding-bottom: 0.5em;
     border-bottom: 1px solid $background-hr;
