@@ -17,7 +17,7 @@ url: "https://kevinmeehanlyit.github.io/" # the base hostname & protocol for you
 logo: "/assets/img/logo/audio-guide.png"
 twitter_username: N_Petropoulos
 menu_heading: "Select another stop"
-index_page_text: "<center>Welcome to the Tower Museum 'Shirt Factories of Derry/Londonderry' Exhibition. Select a number below to hear the amazing stories from the factory workers themselves.</center><br/><br/>"
+index_page_text: "<center>Welcome to the Tower Museum 'Shirt Factories of Derry/Londonderry' Exhibition. Select a number below to hear the amazing stories from the factory workers themselves.</center><br/>"
 headphones_icon_color: "/assets/img/icons/headphones-dark.png"
 headphones_icon_light: "/assets/img/icons/headphones-light.png"
 
